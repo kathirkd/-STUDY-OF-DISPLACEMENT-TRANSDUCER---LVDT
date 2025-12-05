@@ -1,6 +1,6 @@
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
 ### Name:Pandikumar S
-### Reg no:212223080036
+### Reg no:2122230800
 
 AIM
 To study the operation of LVDT- Linear Variable Differential Transformer
